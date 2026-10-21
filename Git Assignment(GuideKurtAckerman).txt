@@ -1,0 +1,69 @@
+Git Assignment 
+
+Kurt Ackerman 
+
+“Git Init” 
+
+Initializes brand new empty local Git repository inside your project folder  
+
+ 
+
+"Git add" 
+
+Adds your files to staging area 
+
+ 
+
+"Git commit" 
+
+Permanently saves staged changes into local history on computer 
+
+ 
+
+"Git push" 
+
+Uploads all local computer saves and branch history to online repository 
+
+ 
+
+"Git status" 
+
+Shows current state of working folder 
+
+ 
+
+"Git log" 
+
+Displays all chronological list of all past saves 
+
+ 
+
+"Git branch" 
+
+All different working branches in repository 
+
+ 
+
+"Git config" 
+
+View or change Git settings 
+
+ 
+
+"Git stash" 
+
+Temporarily shelves uncommitted work 
+
+ 
+
+"Git pull" 
+
+Fetches latest updates from online GitHub repository 
+
+ 
+
+ 
+
+ 
+
+ 
